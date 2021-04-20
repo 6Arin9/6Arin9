@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @6Arin9
 - 👀 I’m interested in Gamehacking, BackEnd Developing
-- 🌱 I’m currently learning how to die fast, jk
+- 🌱 I’m currently learning how to die fast (jk)
 - 📫 How to reach me arin#8268
 
 <!--- - 💞️ I’m looking to collaborate on ... --->
