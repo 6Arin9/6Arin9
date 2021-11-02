@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-1/454721741684736010.png" /> <br> <br>
+<!--   <img src="https://discord.c99.nl/widget/theme-1/454721741684736010.png" /> <br> <br> -->
   
   <img src="https://github-readme-stats.vercel.app/api?username=6Arin9" />
 </p>
