@@ -2,6 +2,6 @@
 
 ###### Back-End Web Developer
 
-- :seedling: Learning .ts and React [Fr]
+- :seedling: nothing lol
 - :rocket: Fluent in `.js`, `.php`, `.css`, `.html`, `.java`, `.py`, `.cs`, `.cpp`, `.ino`
-- :earth_asia: Find me: @arin2115 on Discord
+- :earth_asia: Find me: @_itsarin\_ on Discord
